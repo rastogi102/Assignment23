@@ -1,0 +1,11 @@
+F:\Training Stuff\Dot netTraining\DAY-20\MainApp\MainApp\bin\Debug\MainApp.exe.config
+F:\Training Stuff\Dot netTraining\DAY-20\MainApp\MainApp\bin\Debug\MainApp.exe
+F:\Training Stuff\Dot netTraining\DAY-20\MainApp\MainApp\bin\Debug\MainApp.pdb
+F:\Training Stuff\Dot netTraining\DAY-20\MainApp\MainApp\bin\Debug\MySharedLibrary.dll
+F:\Training Stuff\Dot netTraining\DAY-20\MainApp\MainApp\bin\Debug\MySharedLibrary.pdb
+F:\Training Stuff\Dot netTraining\DAY-20\MainApp\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\DAY-20\MainApp\MainApp\obj\Debug\MainApp.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\DAY-20\MainApp\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\DAY-20\MainApp\MainApp\obj\Debug\MainApp.csproj.CopyComplete
+F:\Training Stuff\Dot netTraining\DAY-20\MainApp\MainApp\obj\Debug\MainApp.exe
+F:\Training Stuff\Dot netTraining\DAY-20\MainApp\MainApp\obj\Debug\MainApp.pdb

@@ -1,0 +1,6 @@
+F:\Training Stuff\Dot netTraining\DAY-20\MySharedLibrary\MySharedLibrary\bin\Debug\MySharedLibrary.dll
+F:\Training Stuff\Dot netTraining\DAY-20\MySharedLibrary\MySharedLibrary\bin\Debug\MySharedLibrary.pdb
+F:\Training Stuff\Dot netTraining\DAY-20\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\DAY-20\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\DAY-20\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.dll
+F:\Training Stuff\Dot netTraining\DAY-20\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.pdb
